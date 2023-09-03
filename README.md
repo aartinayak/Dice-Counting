@@ -9,7 +9,7 @@ This MATLAB script is designed to count the number of dice in a given image, rep
 Before using the script, ensure you have the following prerequisites:
 
 * MATLAB: You need MATLAB installed on your computer to run this script.
-If you do not have MATLAB installed on your system, you can check out the steps <a href="[[url](https://www.mathworks.com/products/matlab.html?s_tid=hp_ff_p_matlab)https://www.mathworks.com/products/matlab.html?s_tid=hp_ff_p_matlab](https://www.mathworks.com/products/matlab.html?s_tid=hp_products_matlab)https://www.mathworks.com/products/matlab.html?s_tid=hp_products_matlab">heret</a>.
+If you do not have MATLAB installed on your system, you can check out the steps <a href="https://www.mathworks.com/products/matlab.html?s_tid=hp_products_matlab">here</a>.
 
 
 
