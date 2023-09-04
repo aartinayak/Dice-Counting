@@ -11,5 +11,17 @@ Before using the script, ensure you have the following prerequisites:
 * MATLAB: You need MATLAB installed on your computer to run this script.
 If you do not have MATLAB installed on your system, you can check out the steps <a href="https://www.mathworks.com/products/matlab.html?s_tid=hp_products_matlab">here</a>.
 
+* Input Images: Prepare the input images that contain the dice you want to analyze. Supported image formats include JPEG, PNG, and others.
+
+## Usage
+
+1. Clone or Download the Repository: Clone the repository containing the MATLAB script to your local machine or download it as a ZIP file and extract its contents.
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+
+Prepare Input Images: Place your input image files in the same directory as the script. Alternatively, you can specify the file paths within the script.
+
+Run the Script: Open MATLAB and navigate to the directory containing the script. Run the script by typing the following command in the MATLAB command window, replacing 'your_image.jpg' with the path to your input image file:
+
 
 
