@@ -16,7 +16,7 @@ Before using the script, ensure you have the following prerequisites:
   * For example: The images I was working with images that looked something like this:
 
     
-![Screenshot 2023-09-03 at 8 22 03 PM](https://github.com/aartinayak/Dice-Counting/assets/69034823/0f0d1abc-8633-49d5-a497-05b73223986b)
+<img src="https://github.com/aartinayak/Dice-Counting/blob/main/images/SampleImage.png" width = 50% height = 50%>
 
 ## Usage
 
@@ -48,7 +48,19 @@ count_dice('your_image.jpg');
 
 Here is an example image and its expected output:
 
-<img src="Screenshot 2023-09-03 at 10.08.49 PM.png" width="150" height="280">
+<img src="https://github.com/aartinayak/Dice-Counting/blob/main/images/OutputImage.png" width=50% height=50%>
+<img src="https://github.com/aartinayak/Dice-Counting/blob/main/images/OutputCount.png" width=50% height=50%>
+
+## Customization
+
+You can tailor the script to suit your specific requirements by:
+ * Adjusting image processing parameters to optimize dice detection.
+ * Modifying the script to handle images with varying resolutions, backgrounds, or conditions.
+
+## Author
+
+* Aarti Nayak
+* Github: https://github.com/aartinayak
 
 
 
