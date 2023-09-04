@@ -20,8 +20,6 @@ Before using the script, ensure you have the following prerequisites:
 
 1. Clone or Download the Repository: Clone the repository containing the MATLAB script to your local machine or download it as a ZIP file and extract its contents.
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-
 ```python
 def hello_world():
     print("Hello, World!")
