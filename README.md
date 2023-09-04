@@ -20,46 +20,10 @@ Before using the script, ensure you have the following prerequisites:
 
 1. Clone or Download the Repository: Clone the repository containing the MATLAB script to your local machine or download it as a ZIP file and extract its contents.
 
-```python
-def hello_world():
-    print("Hello, World!")
+```bash
+```
 
-hello_world()
-<pre>
-<code class="language-python">
-def hello_world():
-    print("Hello, World!")
-
-hello_world()
-</code>
-</pre>
-<button class="copy-button" data-clipboard-target="#code-snippet">Copy</button>
-<script>
-    var clipboard = new ClipboardJS('.copy-button');
-
-    clipboard.on('success', function(e) {
-        e.clearSelection();
-    });
-</script>
-<style>
-    pre {
-        background-color: #f4f4f4;
-        padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 5px;
-    }
-    button.copy-button {
-        background-color: #007acc;
-        color: #fff;
-        border: none;
-        border-radius: 5px;
-        padding: 5px 10px;
-        cursor: pointer;
-    }
-</style>
-
-
-Prepare Input Images: Place your input image files in the same directory as the script. Alternatively, you can specify the file paths within the script.
+2. Prepare Input Images: Place your input image files in the same directory as the script. Alternatively, you can specify the file paths within the script.
 
 Run the Script: Open MATLAB and navigate to the directory containing the script. Run the script by typing the following command in the MATLAB command window, replacing 'your_image.jpg' with the path to your input image file:
 
